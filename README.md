@@ -55,3 +55,4 @@ Notes:
 - Fingerprint is server-only and salted (`FP_SALT`)
 - `.env.local` and `data/` are Git‑ignored; configure env in Vercel settings for production
 
+# elo-arena
